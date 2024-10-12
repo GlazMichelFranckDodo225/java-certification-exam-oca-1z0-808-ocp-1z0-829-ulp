@@ -5,5 +5,7 @@ public class MyApp {
         // New Student Object is Created and Constructor is Called
         Student student = new Student();
         // student.Student();
+        student.name = "John Wayne"; // Set Instance Variable
+        System.out.println(student.name); // Get Variable
     }
 }

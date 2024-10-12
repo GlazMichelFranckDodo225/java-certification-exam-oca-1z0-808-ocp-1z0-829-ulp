@@ -1,6 +1,7 @@
 package com.dgmf.c.objects;
 
 public class Student {
+    String name; // Instance Variable
 
     // Constructor (like Method, but No Return Type)
     // public void Student() { // Code will Compile, but here Student() is
