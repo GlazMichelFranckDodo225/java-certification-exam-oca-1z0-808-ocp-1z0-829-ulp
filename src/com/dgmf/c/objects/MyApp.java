@@ -7,5 +7,7 @@ public class MyApp {
         // student.Student();
         student.name = "John Wayne"; // Set Instance Variable
         System.out.println(student.name); // Get Variable
+
+        Dog dog = new Dog();
     }
 }
